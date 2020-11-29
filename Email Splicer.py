@@ -1,5 +1,5 @@
 #Given an Email return username & directory
-#sample: username@directory.com
+#Hint: username@directory.com
 
 def splice(email):
     username = email[:email.index("@")]
